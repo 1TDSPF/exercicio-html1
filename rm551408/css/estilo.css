@@ -1,0 +1,18 @@
+h1{
+
+float: left;
+width: 345px;
+height: 300px;
+left: 0px;
+top: 0px;
+background: #7F0404;
+
+}
+
+nav {
+    float: right;
+}
+
+section {
+    clear: left;
+}
