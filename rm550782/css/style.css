@@ -1,0 +1,26 @@
+* {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 18px;
+}
+
+h1{
+    font-size: 20px;
+    float: left;
+    width: 467px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+    background: #d7cf21;
+}
+
+nav{
+    float: right;
+}
+
+section{
+    clear: left;
+}
+
+h2{
+    font-size: 17px;
+}
