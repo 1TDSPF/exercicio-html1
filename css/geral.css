@@ -1,0 +1,42 @@
+body,
+h1,
+h2,
+h3,
+ul,
+li,
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  display: block;
+  object-fit: cover;
+}
+
+img[src$='.jpg'] {
+  border-radius: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  padding: 0px;
+  list-style: none;
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
