@@ -1,0 +1,19 @@
+header > h1{
+    float: left;
+    position: static;
+    width: 345px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+
+
+background: #1C80B8;
+}
+
+nav{
+    float: right;
+}
+
+section{
+    clear: left;
+}
