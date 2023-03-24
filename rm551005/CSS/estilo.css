@@ -1,0 +1,18 @@
+h1{
+    position: static;
+    width: 467px;
+    height: 300px;
+    left: 0px;
+    top: opx;
+
+    background: #d7cf21;
+}
+
+nav{
+    float: right;
+}
+
+section{
+    clear: left;
+}
+
