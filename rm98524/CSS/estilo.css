@@ -1,11 +1,17 @@
 h1{
-/* h1 */
-float: left;
-width: 467px;
-height: 300px;
-left: 0px;
-top: 0px;
-background: #D7CF21;
+    /* h1 */
+   float: left;
+    width: 467px;
+    height: 300px;
+    left: 0px;
+    top: 0px;
+    background: #D7CF21;
 }
 
-section
+nav{
+    float: right;
+}
+
+section{
+    clear: left;
+} 
