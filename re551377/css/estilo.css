@@ -4,8 +4,16 @@ h1 {
     height: 300px;
     left: 0px;
     top: 0px;
+    text-align: center;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60.8px;
+    line-height: 74px;
     
     background: #2FD82B;
+
+    font-family: 'Roboto Slab', serif;
     }
 
 nav {
