@@ -1,11 +1,11 @@
 h1{
     /* h1 */
-   float: left;
+   position: fixed;
     width: 467px;
     height: 300px;
     left: 0px;
     top: 0px;
-    background: #D7CF21;
+    background: #000080;
 }
 
 nav{
