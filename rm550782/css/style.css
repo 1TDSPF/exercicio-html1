@@ -4,13 +4,21 @@
 }
 
 h1{
+    
+    position: relative;
     font-size: 20px;
-    float: left;
     width: 467px;
     height: 300px;
-    left: 0px;
-    top: 0px;
-    background: #d7cf21;
+    
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;    
+
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+
+    background: rgba(255, 159, 228, 0.97);
 }
 
 nav{
