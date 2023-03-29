@@ -1,6 +1,6 @@
 h1{
     /* h1 */
-   float: left;
+   position:absolute;
     width: 467px;
     height: 300px;
     left: 0px;
