@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+h1{
+    width: 467px;
+    height: 300px;
+    background: #D7CF21;
+    float: left;
+
+    text-align: center;
+
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 77px;
+}
+
+nav{
+    float: right;
+}
+
+section{
+    clear: left;
+}
