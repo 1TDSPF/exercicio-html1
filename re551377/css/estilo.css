@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+
 h1 {
     float: left;
     width: 345px;
@@ -13,7 +15,7 @@ h1 {
     
     background: #2FD82B;
 
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', Arial, serif;
     }
 
 nav {
