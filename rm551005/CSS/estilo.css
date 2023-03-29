@@ -1,13 +1,21 @@
-h1{
-    position: static;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
+
+
+header > h1{
+    
     width: 467px;
     height: 300px;
-    left: 0px;
-    top: opx;
-
     background: #d7cf21;
-}
+    float: left;
+    text-align: center;
 
+    font-family: 'Inter', sans-serif;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+}
 nav{
     float: right;
 }
@@ -15,4 +23,7 @@ nav{
 section{
     clear: left;
 }
+
+
+
 
