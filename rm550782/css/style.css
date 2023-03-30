@@ -20,8 +20,31 @@ h1{
     padding: 115px 30px 0 30px;
 }
  
-nav{
+.menu{
     float: right;
+}
+.menu ul {
+    list-style-type: none;
+}
+
+.menu ul li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    background-color: rgba(159, 169, 255, 0.97);;
+    display: inline-block;
+    height: 300px;
+    width: 256px;
+    left: 652px;
+    top: 0px;
+    border-radius: 0px;
+    text-align: center;
+    padding: 115px 30px 0 30px;
+    font-size: 55px;
+    color: black;
 }
 
 section{
