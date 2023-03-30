@@ -22,7 +22,7 @@ h1 {
     
     font-style: normal;
     font-weight: 700;
-    font-size: 60.8px;
+    font-size: 55px;
     line-height: 74px;
 
     padding: 110px 30px 0 30px;   /* top, right, bottom, left*/
@@ -32,20 +32,20 @@ h1 {
     font-family: 'Roboto Slab', Arial, serif;
     }
 
-nav {
+.menu {
     float: right;
 }
 
-nav ul {
+.menu ul {
     list-style-type: none;
 }
 
-nav ul li{
+.menu ul li{
     display: inline-block;
     padding: 0 14px 0 14px;
 }
 
-nav ul li a{
+.menu ul li a{
     text-decoration: none;
     background-color: #5B59B9;
 
