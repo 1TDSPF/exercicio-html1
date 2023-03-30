@@ -24,9 +24,33 @@ h1{
     font-family: 'Inter', sans-serif;
 }
 
-nav{
+.menu{
     float: right;
 }
+
+.menu ul{
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 0 20px;
+}
+.menu ul a{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #D7CF21;
+    height: 300px;
+    width: 256px;
+    left: 652px;
+    top: 0px;
+    border-radius: 0px;
+    text-align: center;
+    padding: 115px 30px 0 30px;
+    font-family: 'Inter', sans-serif;
+    font-size: 55px;
+    color: #000000;
+}
+
 
 section{
     clear: left;
