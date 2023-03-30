@@ -1,23 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
 
+*{
+    margin: 0;
+    padding; 0;
+
+}
+
+
 h1{
     /* h1 */
-    position: fixed;
-    width: 467px;
+    position: top;
+    width: 308px;
     height: 300px;
-    left: 0px;
-    top: 0px;
     background: #000080;
-
-    font-family: 'Inter', sans-serif;
-
     font-family: Inter;
-    font-size: 49px;
+    font-size: 48.92px;
     font-style: italic;
-    font-weight: 200;
-    line-height: 59px;
+    font-weight: 300;
+    line-height: 280px;
     letter-spacing: 0em;
     text-align: center;
+    font-family: 'Inter', sans-serif;
+    padding: 50px 50px 60px ;
 }
 
 nav{
