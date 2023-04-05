@@ -13,6 +13,9 @@ body{
 .box-pai{
     display: flex;
     border: 2px solid #ff0000;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
     flex-direction: row;
 }  
 
@@ -21,6 +24,7 @@ body{
     height: 100px;
     text-align: center;
     color: #fff;
+    margin:  0 1%;
 }
 
 .box-1{
