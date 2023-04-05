@@ -47,12 +47,12 @@ h1{
     padding: 0 20px;
 }
 
-.menu ul li{
+.menu ul li a{
 text-decoration: none;
 background-color: #2063c7;
 display: inline-block;
 height: 300px;
-width: 256px;
+width: 250px;
 left: 652px;
 top: 0px;
 border-radius: 0px;
