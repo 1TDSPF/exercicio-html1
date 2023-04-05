@@ -50,4 +50,5 @@ body{
 .box-4{
     background-color: chocolate;
     flex-grow: 1;
+    display: flex;
 }
