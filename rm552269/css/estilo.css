@@ -6,6 +6,7 @@
     box-sizing: border-box;
 }
 
+
 h1{
     /* h1 */
    float: left;
@@ -40,7 +41,7 @@ h1{
     background-color: #D7CF21 ;
     display: inline-block;
     height: 300px;
-    width: 256px;
+    width: 243px;
     left: 652px;
     top: 0px;
     border-radius: 0px;
