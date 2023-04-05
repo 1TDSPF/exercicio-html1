@@ -13,8 +13,10 @@ body{
 .box-pai{
     display: flex;
     border: 2px solid #ff0000;
-    flex-direction: row;
-    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: top;
 }
 
 .box-filhas{
@@ -22,16 +24,22 @@ body{
     height: 100px;
     text-align: center;
     color: #fff;
+    margin: 2%;
 }
 .box-1{
     background-color: blue;
+    flex-grow: 1;
 }
 .box-2{
     background-color: brown;
+    flex-grow: 2;
 }
 .box-3{
     background-color: blueviolet;
+    flex-grow: 2;
 }
 .box-4{
     background-color: chocolate;
+    flex-grow: 1;
+    display: flex;
 }
