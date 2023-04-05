@@ -1,0 +1,10 @@
+.bgHome {
+    background-color: #000;
+}
+
+.texto {
+    padding: 120px 40px;
+    font-size: 1.125rem;
+    color: #fff;
+    text-align: center;
+}

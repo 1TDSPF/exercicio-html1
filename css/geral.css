@@ -10,15 +10,11 @@ p {
 }
 
 img {
-  height: auto;
   max-width: 100%;
   display: block;
   object-fit: cover;
 }
 
-img[src$='.jpg'] {
-  border-radius: 10px;
-}
 
 a {
   text-decoration: none;

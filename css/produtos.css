@@ -1,0 +1,13 @@
+.produtos li img{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.produtos {
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    gap: 30px;
+}
