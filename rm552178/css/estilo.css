@@ -16,7 +16,7 @@ Ultilizando o seletor universal, vamos resetar o css do navegador!
 h1{
     /* h1 */
    float: left;
-    width: 400px;
+    width: 345px;
     height: 300px;
     left: 0px;
     top: 0px;
@@ -25,7 +25,7 @@ h1{
     font-family: 'Inter', sans-serif;
 
     font-family: Inter;
-    font-size: 64px;
+    font-size: 55px;
     font-style: normal;
     font-weight: 500;
     line-height: 77px;
