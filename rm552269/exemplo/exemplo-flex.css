@@ -6,8 +6,8 @@
 
 body {
     width: 100%;
-    height: 1024;
-    max-width: 1440;
+    height: 1024px;
+    max-width: 1440px;
 }
 
 .box-pai{
@@ -19,29 +19,36 @@ body {
     flex-direction: column-reverse 
     flex-wrap: wrap
     flex-wrap: nowrap
+    justify-content (horizontal)
+    align-items (vertical)
     */
-    
+    width: 100%;
+    height: 100%;
     flex-direction: row;
-    
-    
-}
+    justify-content: center;
+    }
 
 .box-filhas {
     width: 100px;
     height: 100px;
     text-align: center;
     color: #fff;
+    margin: 0 2%;
 }
 
 .box-1 {
     background-color: blue;
+    flex-grow: 1;
 }
 .box-2 {
     background-color: brown;
+    flex-grow: 2;
 }
 .box-3 {
     background-color: blueviolet;
+    flex-grow: 3;
 }
 .box-4 {
     background-color: chocolate;
+    flex-grow: 4;
 }
